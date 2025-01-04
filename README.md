@@ -4,15 +4,17 @@ I'm a passionate developer with experience in building web applications using Ja
 
 ## 🛠️ Technologies & Tools
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-- ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-- ![Rider](https://img.shields.io/badge/-Rider-000000?logo=jetbrains&logoColor=white&style=flat)
-- ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=jetbrains&logoColor=white&style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat" alt="C#" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/-Rider-000000?logo=jetbrains&logoColor=white&style=flat" alt="Rider" />
+  <img src="https://img.shields.io/badge/-WebStorm-000000?logo=jetbrains&logoColor=white&style=flat" alt="WebStorm" />
+</p>
 
 ## 🚀 Projects
 
